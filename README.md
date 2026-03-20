@@ -16,3 +16,8 @@ Face any problems? Contact codemaster.ar@gmail.com and ahan.jadhav@gmail.com for
 
 ### Initiative:
 This is part of the agronauts project, visit the home repository [https://github.com/Codemaster-AR/agronauts](https://github.com/Codemaster-AR/agronauts)
+
+
+
+### Other repo:
+[https://github.com/LegendaryKiddGamer/Agronautus-Rover-Analytics](https://github.com/LegendaryKiddGamer/Agronautus-Rover-Analytics)
